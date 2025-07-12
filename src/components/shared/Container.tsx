@@ -1,0 +1,14 @@
+import type React from "react";
+
+interface ContainerProps {
+  children: React.ReactNode;
+  className?: string;
+}
+
+const Container = ({ children, className = "" }: ContainerProps) => {
+  return (
+    <div className={`${className} mx-auto max-w-7xl w-full px-5 sm:px-8 md:px-14 lg:px-5`}>{children}</div>
+  );
+};
+
+export default Container;
