@@ -10,7 +10,7 @@
   --heading-3: 55 65 81;
 }
 
-html.dark {
+.dark {
   --color-bg: 3 7 18;
   --color-box: 17 24 39;
   --box-border: 243 244 246 / 0.1;
@@ -33,7 +33,7 @@ html.dark {
   .text-heading-2 {
     color: rgb(var(--heading-2));
   }
-  .text-heading-2 {
+  .text-heading-3 {
     color: rgb(var(--heading-3));
   }
 }
