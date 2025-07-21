@@ -14,7 +14,7 @@ const Brands = () => {
           {logos.map((logo, index) => (
             <div key={index} className="p-4 sm:p-5 rounded-xl bg-body border border-box-border">
               <img
-                src={`/assets/logos/${logo}.png`}
+                src={`./assets/logos/${logo}.png`}
                 alt="logo"
                 width="100"
                 height="60"
