@@ -34,7 +34,7 @@ npm install
 npm start
 ```
 
-Open [http://localhost:5171](http://localhost:5173) to view it in your browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## Folder Structure
 
