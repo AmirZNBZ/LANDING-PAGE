@@ -18,8 +18,8 @@ const navItems = [
     text: "About Us",
   },
   {
-    href: "#features",
-    text: "Features",
+    href: "#pricing",
+    text: "Pricing",
   },
 ];
 
