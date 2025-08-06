@@ -2,7 +2,7 @@
 
 A modern, responsive landing page built with TypeScript, CSS, JavaScript, and HTML.
 
-🔗 **Live Preview:** [https://amirznbz.github.io/apple_website/](https://amirznbz.github.io/LANDING-PAGE/)
+🔗 **Live Preview:** [https://amirznbz.github.io/landing_page/](https://amirznbz.github.io/LANDING-PAGE/)
 
 ## Features
 
@@ -71,3 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 ![Preview](./public/assets/shots/2.png)
 ![Preview](./public/assets/shots/3.png)
 ![Preview](./public/assets/shots/4.png)
+
